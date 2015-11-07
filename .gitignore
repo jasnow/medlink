@@ -37,3 +37,7 @@ coverage
 libpeerconnection.log
 /sandi_meter/*
 #*#
+
+# Added to not force others to use it.
+.rvmrc
+.overcommit.yml
