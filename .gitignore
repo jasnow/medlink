@@ -38,6 +38,12 @@ libpeerconnection.log
 /sandi_meter/*
 #*#
 
+# Ignore application configuration
+/config/application.yml
+
+/fixtures/vcr_cassettes
+/spec/examples.txt
+
 # Added to not force others to use it.
 .rvmrc
 .overcommit.yml
